@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+        "uri": "mongodb+srv://admin:1BigFatCat@cluster0.lyzbt.mongodb.net/test"
+    }
+}
